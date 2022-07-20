@@ -443,7 +443,6 @@ void tail(int r)
 	    cout << "(get-value (kwr_"<< i <<"))" << endl;
 	}
 
-	//明文部分
 
 	for(int i=1;i<=r;i++)
 	{
